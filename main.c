@@ -2,6 +2,5 @@
 
 int main()
 {
-
-    printf("Hello from main!\n");
+    printf("Hello from feature!\n");
 }
