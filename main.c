@@ -3,5 +3,5 @@
 int main()
 {
 
-    printf("Hello, world llw!\n");
+    printf("Hello from main!\n");
 }
